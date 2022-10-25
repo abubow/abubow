@@ -78,6 +78,7 @@ I am a third year Computer Science student at [University Of Central Punjab](htt
 </p>
 | ------------- | ------------- |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubow&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **abubow/abubow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
