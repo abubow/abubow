@@ -1,4 +1,4 @@
-### Hi there, I'm [Abuzar Sherazi](https://wwww.abubow.me) 👋
+### Hi there, I'm [Abuzar Sherazi](https://abubow.me) 👋
 
 I am a third year Computer Science student at [University Of Central Punjab](https://ucp.edu.pk/), Pakistan. Apart from that I am Front-end developer that loves creating unique UI & UX as well as a deep love for game development.
 
