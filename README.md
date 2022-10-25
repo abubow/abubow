@@ -1,6 +1,6 @@
-### Hi there, I'm Abuzar Sherazi 👋
+### Hi there, I'm [Abuzar Sherazi](https://wwww.abubow.me) 👋
 
-I am a third year Computer Science student at [University Of Central Punjab](https://ucp.edu.pk/), Pakistan. Apart from that I am Front-end developer that loves creating unique UI & UX.
+I am a third year Computer Science student at [University Of Central Punjab](https://ucp.edu.pk/), Pakistan. Apart from that I am Front-end developer that loves creating unique UI & UX as well as a deep love for game development.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
