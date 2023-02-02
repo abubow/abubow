@@ -74,9 +74,9 @@ I am a third year Computer Science student at [University Of Central Punjab](htt
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/SyedMoh25065076) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abdul-haie-b9538b215)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/syed-mohammad-abuzar-0a87a4197/)
 </p>
-| ------------- | ------------- |
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubow&layout=compact&theme=vision-friendly-dark)
 
