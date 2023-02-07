@@ -1,6 +1,8 @@
-### Hi there, I'm [Abuzar Sherazi](https://abubow.me) 👋
+# Greetings! I'm [Abuzar Sherazi](https://abubow.me) 💻
 
-I am a third year Computer Science student at [University Of Central Punjab](https://ucp.edu.pk/), Pakistan. Apart from that I am Front-end developer that loves creating unique UI & UX as well as a deep love for game development.
+As a highly skilled full-stack web developer, I bring a passion for technology, creativity, and innovation to every project I take on. With a background in computer science and a deep understanding of web development frameworks like NextJS, Golang, and Django, I am equipped to tackle a wide range of technical challenges and deliver exceptional results.
+
+As a third-year student at the [University Of Central Punjab](https://ucp.edu.pk/), I have honed my skills in front-end and back-end development, as well as UI/UX design. I am committed to staying up-to-date with the latest technology trends and best practices, and am always looking for new ways to improve my craft.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -15,16 +17,19 @@ I am a third year Computer Science student at [University Of Central Punjab](htt
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-**My Interest**:
-- Creating better UX
-- Standing Out
-- Colaboration 
+## My Strengths
+- Building fast, dynamic, and responsive web applications using NextJS
+- Implementing scalable and secure back-end systems using Golang and Django
+- Creating beautiful, intuitive, and user-centered interfaces that enhance the user experience
+- Collaborating with cross-functional teams to bring ideas to life and bring out the best in each other
 
- **I am open to**:
+## I am Open to:
+- Full-stack web development projects utilizing NextJS, Golang, and Django
+- Collaborating on web and machine learning projects, both for development and research purposes
+- Participating in research and industry internships to further develop my skills
+- Freelance work and other opportunities to showcase my expertise and passion for full-stack web development.
 
-- any collobration work,
-- Web and machine learning projects(development or research),
-- research internships and industry internships and Jobs
+If you're looking for a dedicated, creative, and driven full-stack web developer, I would love the opportunity to discuss your project further. Let's work together to bring your vision to life!
 
 ## Skills:
 
@@ -44,18 +49,26 @@ I am a third year Computer Science student at [University Of Central Punjab](htt
 
 
 #### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+
+#### CSS
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 #### Tools and Technologies
 
