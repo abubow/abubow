@@ -1,4 +1,4 @@
-# Greetings! I'm [Abuzar Sherazi](https://abubow.me) 💻
+# Greetings! I'm [Abuzar Sherazi](https://abuzar.live) 💻
 
 As a highly skilled full-stack web developer, I bring a passion for technology, creativity, and innovation to every project I take on. With a background in computer science and a deep understanding of web development frameworks like NextJS, Golang, and Django, I am equipped to tackle a wide range of technical challenges and deliver exceptional results.
 
